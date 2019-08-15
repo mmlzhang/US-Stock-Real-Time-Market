@@ -1,0 +1,10 @@
+asn1crypto==0.24.0
+certifi==2019.6.16
+cffi==1.12.3
+chardet==3.0.4
+lxml==4.3.4
+pycparser==2.19
+PySocks==1.7.0
+python-dateutil==2.8.0
+six==1.12.0
+requests
